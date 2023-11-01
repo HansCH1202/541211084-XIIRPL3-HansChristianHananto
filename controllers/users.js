@@ -1,6 +1,6 @@
 let users = [
     {id: 1, nama: 'Hans', email: 'hans@gmail.com'},
-    {id: 2, nama: 'Christian', email: 'christian@gmail.com'},
+    {id: 2, nama: 'Christian H', email: 'christian@gmail.com'},
 ]
 
 module.exports = {
