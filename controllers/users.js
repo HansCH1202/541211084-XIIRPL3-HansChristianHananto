@@ -32,7 +32,7 @@ module.exports = {
                 data: user,
                 method: req.method,
                 url: req.url,
-                message: 'Data berhasil didapat'
+                message: 'Data berhasil didapatkan'
             })
         } catch (error) {
             res.status(400).json({success: false, error: error.message})    
